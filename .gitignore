@@ -1,0 +1,11 @@
+.venv/
+.DS_Store
+.idea/misc.xml
+.local/
+**/bin/
+**/gen/
+*.prg
+*.prg.debug.xml
+*.iq
+*.pem
+*.der
