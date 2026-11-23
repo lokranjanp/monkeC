@@ -1,0 +1,112 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="attrs" />
+          <option value="Authlib" />
+          <option value="beartype" />
+          <option value="cached-property" />
+          <option value="cachetools" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="cloudpickle" />
+          <option value="croniter" />
+          <option value="cryptography" />
+          <option value="cyclopts" />
+          <option value="diskcache" />
+          <option value="dnspython" />
+          <option value="docstring_parser" />
+          <option value="docutils" />
+          <option value="email-validator" />
+          <option value="exceptiongroup" />
+          <option value="fakeredis" />
+          <option value="fastmcp" />
+          <option value="fitfile" />
+          <option value="GarminDb" />
+          <option value="garth" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="httpx-sse" />
+          <option value="idbutils" />
+          <option value="idna" />
+          <option value="importlib_metadata" />
+          <option value="jaraco.classes" />
+          <option value="jaraco.context" />
+          <option value="jaraco.functools" />
+          <option value="jsonref" />
+          <option value="jsonschema" />
+          <option value="jsonschema-path" />
+          <option value="jsonschema-specifications" />
+          <option value="keyring" />
+          <option value="lupa" />
+          <option value="markdown-it-py" />
+          <option value="mcp" />
+          <option value="mdurl" />
+          <option value="more-itertools" />
+          <option value="oauthlib" />
+          <option value="openapi-pydantic" />
+          <option value="opentelemetry-api" />
+          <option value="packaging" />
+          <option value="pathable" />
+          <option value="pathvalidate" />
+          <option value="platformdirs" />
+          <option value="prometheus_client" />
+          <option value="py-key-value-aio" />
+          <option value="py-key-value-shared" />
+          <option value="pycparser" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="pydantic_core" />
+          <option value="pydocket" />
+          <option value="Pygments" />
+          <option value="PyJWT" />
+          <option value="pyperclip" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="python-json-logger" />
+          <option value="python-multipart" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="redis" />
+          <option value="referencing" />
+          <option value="requests" />
+          <option value="requests-oauthlib" />
+          <option value="rich" />
+          <option value="rich-rst" />
+          <option value="rpds-py" />
+          <option value="shellingham" />
+          <option value="six" />
+          <option value="sortedcontainers" />
+          <option value="SQLAlchemy" />
+          <option value="sse-starlette" />
+          <option value="starlette" />
+          <option value="tcxfile" />
+          <option value="tornado" />
+          <option value="tqdm" />
+          <option value="typer" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="websockets" />
+          <option value="zipp" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="id" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
