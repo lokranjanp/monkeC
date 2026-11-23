@@ -1,0 +1,13 @@
+<iq:manifest version="3" xmlns:iq="http://www.garmin.com/xml/connectiq">
+    <iq:application id="f31d62cda5b44fef9eb18b615439024a" type="watch-app"
+        name="@Strings.AppName" entry="ProbeApp"
+        launcherIcon="@Drawables.LauncherIcon" minApiLevel="3.2.0">
+        <iq:products>
+            <iq:product id="fr265"/>
+            <iq:product id="fenix7"/>
+        </iq:products>
+        <iq:permissions/>
+        <iq:languages><iq:language>eng</iq:language></iq:languages>
+        <iq:barrels/>
+    </iq:application>
+</iq:manifest>

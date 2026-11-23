@@ -1,0 +1,32 @@
+SDK probe started
+------------------------------------------------------------------------------
+Executing test missingValueIsNotZero...
+PASS
+SDK probe started
+------------------------------------------------------------------------------
+Executing test symbolAndStringKeysDiffer...
+PASS
+SDK probe started
+------------------------------------------------------------------------------
+Executing test methodKeepsItsReceiver...
+PASS
+SDK probe started
+------------------------------------------------------------------------------
+Executing test integerDivisionNeedsConversion...
+PASS
+SDK probe started
+------------------------------------------------------------------------------
+Executing test typedArrayAndCapabilityGuard...
+PASS
+
+==============================================================================
+RESULTS
+Test:                               Status:
+missingValueIsNotZero               PASS
+symbolAndStringKeysDiffer           PASS
+methodKeepsItsReceiver              PASS
+integerDivisionNeedsConversion      PASS
+typedArrayAndCapabilityGuard        PASS
+Ran 5 tests
+
+PASSED (passed=5, failed=0, errors=0)
